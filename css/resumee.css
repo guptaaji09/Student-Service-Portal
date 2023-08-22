@@ -1,0 +1,70 @@
+fontss{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    }
+
+body{
+    background-color: #ff4c68;
+    background-image: url("book-library.jpg");
+}
+
+.container-fluid{
+    font-family: 'Ubuntu', sans-serif;
+    padding: 3% 15% 2%;
+
+}
+
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bolder;
+}
+
+/* .navbar{
+    padding:0 0 4.5rem;
+} */
+
+.nav-item{
+    padding: 0 18px;
+    color: #fff;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+  
+
+.btns{
+    margin: 5%;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.btn{
+    padding: 0 1.5%;
+    margin: 0 0.5%;
+}
+
+@media(max-width:1028px) {
+    .btns{
+        margin: 10%;
+    }
+}
+
+.footer-icon{
+    margin: 20px 10px;
+}
+
+#footer{
+    text-align: center;
+    padding: 7% 15% 0% 15%;
+    width: 100%;
+    font-family: 'Ubuntu', sans-serif;
+    color: #fff;
+}
+
+p{
+    color: lightgray;
+}
